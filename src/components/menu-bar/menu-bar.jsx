@@ -425,7 +425,7 @@ class MenuBar extends React.Component {
                 <div className={styles.mainMenu}>
                     <div className={styles.fileGroup}>
                         <div className={classNames(styles.menuBarItem)}>
-                            <h2>Deepak Singh</h2>
+                            <h2>Learn Tinkering</h2>
                             {/* <img id="logo_img"
                                 alt="Scratch"
                                 className={classNames(styles.scratchLogo, {
